@@ -4,7 +4,7 @@
 ul li a{
     margin-right: 20px;
 }
-.carousel-item img {
+.banner-img {
     max-height: 640px;
     width: 1320px;
   }
@@ -30,6 +30,11 @@ ul li a{
      height: 48px;
      margin-bottom: auto;
  }
+
+ .mdi-36px {
+  font-size: 39px;
+  margin-right: 10px
+}
 
  
  
